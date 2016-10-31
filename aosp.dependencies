@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "device_motorola_msm8226-common",
+    "target_path": "device/motorola/msm8226-common"
+  },
+  {
+    "repository": "KronicKernel/falcon",
+    "target_path": "kernel/motorola/msm8226",
+    "remote": "github"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "remote": "github",
+    "branch": "cm-14.0"
+  }
+]
