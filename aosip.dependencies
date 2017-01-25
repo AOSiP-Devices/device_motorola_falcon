@@ -11,6 +11,12 @@
     "target_path": "kernel/motorola/msm8226",
     "branch":      "cm-14.1"
   },
+   {
+    "remote":      "github",
+    "repository":  "TheMuppets/proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "branch":      "cm-14.1"
+  },
   {
     "remote":      "github",
     "repository":  "TheMuppets/proprietary_vendor_motorola",
